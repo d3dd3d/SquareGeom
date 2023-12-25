@@ -1,0 +1,10 @@
+--Учитывая, что связь сущностей "многие ко многим", помимо самих таблиц "Категория"
+--и "Продукт" есть еще одна таблица, которая реализует эту связь (Продукт-Категория).
+
+Select
+Prod.name as 'Product'
+C.name as 'Category'
+From Products Prod
+Left join ProductsCategories PC on Prod.id = PC.product_id
+Left join Categories C on C.id = PC.category_id
+ 
