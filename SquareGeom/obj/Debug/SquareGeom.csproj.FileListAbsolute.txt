@@ -1,0 +1,6 @@
+C:\Users\krow_\Desktop\SquareGeom\SquareGeom\bin\Debug\SquareGeom.dll
+C:\Users\krow_\Desktop\SquareGeom\SquareGeom\bin\Debug\SquareGeom.pdb
+C:\Users\krow_\Desktop\SquareGeom\SquareGeom\obj\Debug\SquareGeom.csproj.AssemblyReference.cache
+C:\Users\krow_\Desktop\SquareGeom\SquareGeom\obj\Debug\SquareGeom.csproj.CoreCompileInputs.cache
+C:\Users\krow_\Desktop\SquareGeom\SquareGeom\obj\Debug\SquareGeom.dll
+C:\Users\krow_\Desktop\SquareGeom\SquareGeom\obj\Debug\SquareGeom.pdb
